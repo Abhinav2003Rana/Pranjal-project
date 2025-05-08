@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-image: url("./assets/Hero.png");
+    height: 780px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1vw;
+
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+
+    width: 40%;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    color: white;
+
+}
+
+.contact p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: 1.5px solid black;
+    border-radius: 40px;
+    height: 48px;
+    width: 164px;
+}
+
+.H-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Main {
+    background-image: url("./assets/mainbg.png");
+    height: 1771px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
+
+.goog {
+    background-image: url("./assets/google.png");
+    height: 193px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
+
+.main2 {
+    background-image: url("./assets/maintwo.png");
+    height: 944px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
+
+.main3 {
+    background-image: url("./assets/main3.png");
+    height: 1089px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
+
+.footer {
+    background-image: url("./assets/footer.png");
+    height: 1090px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.up {
+    background-color: #020103;
+}
